@@ -373,15 +373,3 @@ Here is a complete example which exercises every option and event handler:
   </body>
   </html>
 ```
-
-## Browser Support
-
-The Zero Clipboard Library has been tested on the following browsers / platforms:
-
-|| *Browser* || *Windows XP SP3* || *Windows Vista* || *Mac OS X Leopard* ||
-|| Internet Exploder || 7.0 || 7.0 || - ||
-|| Firefox || 3.0 || 3.0 || 3.0 ||
-|| Safari || - || - || 3.0 ||
-|| Google Chrome || 1.0 || 1.0 || - ||
-
-Adobe Flash Flash Player versions 9 and 10 are supported.
